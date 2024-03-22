@@ -1,0 +1,15 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.idea
+.DS_Store
+*/DS_Store
+# Local Netlify folder
+.netlify
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
